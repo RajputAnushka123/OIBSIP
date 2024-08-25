@@ -11,4 +11,4 @@ Once all details are filled out, users simply press the insert button to complet
 Cancellation Form:
 If a user needs to cancel a reservation, they can do so by entering their PNR number into the cancellation form.
 After submitting the PNR number, the system will display all relevant information associated with that particular reservation, allowing users to confirm and process the cancellation.
-Key Features:
+
